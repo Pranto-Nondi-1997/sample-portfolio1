@@ -13,11 +13,12 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .SecHalfdiv {
     width: 50%;
-    padding-left: 12%;
+    padding-left: 10%;
 }
 
 .SecHalfdiv img {
@@ -44,4 +45,10 @@ section {
 .TopBanner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.BannerBtmPart {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
