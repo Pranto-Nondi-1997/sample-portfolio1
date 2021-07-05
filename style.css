@@ -22,11 +22,14 @@ h1 {
 }
 
 .SecHalfdiv img {
-    width: 60%;
+    width: 80%;
     height: auto;
-    border-radius: 90%;
-    -webkit-border-radius: 90%;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
     padding-top: 5%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
 }
 
 .linkBtn {
